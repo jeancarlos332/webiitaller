@@ -35,7 +35,6 @@ const Main = () => {
         obtenerDatos();
     })
 
-    
 
 
     const guardarEmpleados = async (e) => {
